@@ -4,7 +4,9 @@ Prediction of stock market prices using S&amp;P 500 data obtained via Yahoo Fina
 This project starts by downloading the S&amp;P  500 data using the Yahoo Finance API. We download the data based on the GSPC symbol via the ticker class.
 The S&P 500 index, or Standard & Poor's 500, is a very important index that tracks the performance of the stocks of 500 large-cap companies in the U.S.
 
-After this, we analyze and clean the data, which has the following parameters: 
+After this, the data is analyzed and cleaned.
+The data has the following parameters:
+
 Open: price when the market opened
 High: The Highest price of the stock on that trading day 
 Low: The Lowest price of the stock on that trading day 
